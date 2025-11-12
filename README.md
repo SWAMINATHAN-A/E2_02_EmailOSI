@@ -1,6 +1,7 @@
 **24BCE1983
 24BCE5256
 Project 2_E2_OSI Email Communication**
+URL:https://osimodele2.netlify.app/
 
 
 Overview
